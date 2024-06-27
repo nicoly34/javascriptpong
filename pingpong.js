@@ -6,6 +6,6 @@ function setup(){
 function draw(){
     //aqui vou por a cor da "mesa"
     //A cor da mesa é em rgb
-    background(138,43,226); 
+    background(128,128,0); 
 }
 
